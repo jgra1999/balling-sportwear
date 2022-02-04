@@ -1,0 +1,17 @@
+[
+	{
+		"id": 0,
+		"img": "./img/carousel/slide 1.png",
+		"imgPC": "./img/carousel/slide mobile 1.png"
+	},
+	{
+		"id": 1,
+		"img": "./img/carousel/slide 2.jpg",
+		"imgPC": "./img/carousel/slide mobile 2.png"
+	},
+	{
+		"id": 2,
+		"img": "./img/carousel/slide 3.jpg",
+		"imgPC": "./img/carousel/slide mobile 3.png"
+	}
+]
