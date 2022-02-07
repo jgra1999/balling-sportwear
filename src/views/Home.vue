@@ -1,19 +1,11 @@
 <template>
 	<header>
 		<main-navbar />
-		<!-- <slides /> -->
-		<!-- <video
-			controls
-			src="/balling converted.mp4"
-			autoplay
-			loading="lazy"
-			class="w-full"
-			type="video/mp4"
-		></video> -->
+		<slides />
 
-		<video class="w-full" autoplay controls muted>
+		<!-- <video class="w-full" autoplay controls muted>
 			<source src="/balling converted.mp4" type="video/mp4" />
-		</video>
+		</video> -->
 	</header>
 
 	<main>
